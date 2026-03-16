@@ -1,6 +1,6 @@
 cask "zebar" do
-  version "3.1.1"
-  sha256 "ff6a9cc09f6dbdf82ef466c5435633b1238d1f1196333510db0fa0008bc867a7"
+  version "3.3.1"
+  sha256 "30bc1a47ea55437b6fb55abec7375c02dc64f6a02ce0daf0a9505fd3c92fb217"
 
   url "https://github.com/glzr-io/zebar/releases/download/v#{version}/zebar-v#{version}-opt3.dmg"
   name "Zebar"
