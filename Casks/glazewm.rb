@@ -1,6 +1,6 @@
 cask "glazewm" do
   version "3.10.0"
-  sha256 "30bc1a47ea55437b6fb55abec7375c02dc64f6a02ce0daf0a9505fd3c92fb217"
+  sha256 "a729b9750f172899d4eff7f552627c3330031867369d0abda83b402b5a0403ec"
 
   url "https://github.com/glzr-io/glazewm/releases/download/v#{version}/glazewm-v#{version}.dmg"
   name "GlazeWM"
