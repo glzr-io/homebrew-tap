@@ -8,7 +8,7 @@ cask "zebar" do
   homepage "https://github.com/glzr-io/zebar"
 
   # MacOS 14+
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Zebar.app"
   binary "#{appdir}/Zebar.app/Contents/MacOS/zebar"

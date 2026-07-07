@@ -8,7 +8,7 @@ cask "glazewm" do
   homepage "https://github.com/glzr-io/glazewm"
 
   # MacOS 13+
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "GlazeWM.app"
   binary "#{appdir}/GlazeWM.app/Contents/MacOS/glazewm"
